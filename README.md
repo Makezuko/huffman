@@ -16,7 +16,7 @@ Instruções para usar:
 
 6. huffman.exe
 
-Se tudo der certo o arquivo vai abrir mostrar 2 opções, compactar ou descompactar.
+Se tudo der certo o arquivo vai mostrar 2 opções, compactar ou descompactar.
 
 Para *COMPACTAR*:
 
